@@ -9,4 +9,7 @@ K3521071 - Zidna Fatha Nazhifa
 <br>
 
  <h1>Diagram</h1>
-<img src="" alt="Alt text" title="Optional title">
+<img src="flow.png" alt="Alt text" title="Optional title">
+
+<h1>Prototype</h1>
+<img src="prototype.png" alt="Alt text" title="Optional title">
